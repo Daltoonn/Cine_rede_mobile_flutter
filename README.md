@@ -17,6 +17,6 @@ Dart — Linguagem de programação.
 
 Flutter — Framework para desenvolvimento mobile cross-platform.
 
-Firebase — (Opcional, caso use) Backend para autenticação, banco de dados e armazenamento.
+SQL LITE —  Backend para autenticação, banco de dados e armazenamento.
 
-REST API — (Opcional, se estiver consumindo dados de alguma API pública de filmes como TMDB ou OMDB).
+
