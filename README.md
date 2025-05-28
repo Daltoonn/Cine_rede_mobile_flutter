@@ -21,3 +21,19 @@ Flutter — Framework para desenvolvimento mobile cross-platform.
 SQL LITE —  Backend para autenticação, banco de dados e armazenamento.
 
 
+## 📷 Screenshots
+
+### Tela de Cadastro
+![Tela inicial](imagens/1.png)
+
+### Tela de Login
+![Tela inicial](imagens/2.png)
+
+### Tela Inicial
+![Tela inicial](imagens/3.png)
+
+### Tela de Criação de publicação
+![Tela inicial](imagens/4.png)
+
+### Tela de Edição pos publicação
+![Tela inicial](imagens/6.png)
