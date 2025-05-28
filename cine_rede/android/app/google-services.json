@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817416180753",
+    "project_id": "cinerede-748c1",
+    "storage_bucket": "cinerede-748c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817416180753:android:7444cf04e3c4ed63f78db0",
+        "android_client_info": {
+          "package_name": "com.example.cine_rede"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALfzGXqVjFKLcumFvO4_7Ogg7JdUI4njI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

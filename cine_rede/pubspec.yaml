@@ -1,0 +1,26 @@
+name: cine_rede
+description: Um aplicativo Flutter com SQLite.
+
+publish_to: 'none' # Não publicar em pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.2.5
+  path_provider: ^2.1.1
+  path: ^1.8.3           # <-- Adicionei esta linha
+  uuid: ^4.2.1
+  image_picker: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
