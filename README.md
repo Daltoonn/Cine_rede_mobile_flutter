@@ -24,16 +24,16 @@ SQL LITE —  Backend para autenticação, banco de dados e armazenamento.
 ## 📷 Screenshots
 
 ### Tela de Cadastro
-![Tela 1](cine_rede/imagens/1.jpg)
-![Descrição](cine_rede/imagens/1.jpg)
+![Tela Cadastro](cine_rede/imagens/1.jpg)
+
 ### Tela de Login
-![Tela inicial](cine_rede/imagens/2.png)
+![Tela Login](cine_rede/imagens/2.jpg)
 
 ### Tela Inicial
-![Tela inicial](cine_rede/imagens/3.png)
+![Tela inicial](cine_rede/imagens/3.jpg)
 
 ### Tela de Criação de publicação
-![Tela inicial](cine_rede/imagens/4.png)
+![Tela inicial](cine_rede/imagens/4.jpg)
 
 ### Tela de Edição pos publicação
-![Tela inicial](cine_rede/imagens/6.png)
+![Tela inicial](cine_rede/imagens/6.jpg)
